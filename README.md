@@ -10,8 +10,6 @@ This project utilizes 4 machine learning models for detecting spam messages in S
 - [Algorithms Used](#algorithms-used)
 - [Evaluation Measures](#evaluation-measures)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
