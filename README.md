@@ -48,7 +48,6 @@ Model performance is evaluated using various evaluation measures, including:
 - False Negative Rate (FNR)
 - Negative Predictive Value (NPV)
 - False Discovery Rate (FDR)
-- Matthews Correlation Coefficient (MCC)
 
 ## Usage
 
